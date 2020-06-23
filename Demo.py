@@ -1,2 +1,3 @@
 print("Hello This is my first python project")
-Thank you :)
+a=5
+print(a)
